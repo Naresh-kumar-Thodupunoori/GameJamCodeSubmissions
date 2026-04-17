@@ -9,12 +9,14 @@ Each project demonstrates a core programming concept through an interactive game
 
 ### Submission Sample 1 Template
 ### 👤 Name
-Participant 1  
+Sushant Singh Chauhan
 
 ### 🧠 Theme
-Loops  
+Stack (with a dash of Backtracking)
 
 ### 🔗 Itch.io Link
+[Play the Game](https://sk555.itch.io/slidecrate)
+"Only play this game in FULL SCREEN"
 [Play the Game](https://xyz)
 
 ---
